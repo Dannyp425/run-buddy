@@ -74,6 +74,24 @@ section {
     position: relative;
 }
 
+.hero-text {
+    display: inline-block;
+    width: 500px;
+    height: 450px;
+    position: absolute;
+    margin-left: 850px;
+}
+.hero-text h2 {
+    color: #fce138;
+    font-size: 52px;
+}
+
+.hero-text p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: white;
+}
+
 .hero-form {
     background-color: #fce138;
     padding: 20px;
@@ -86,7 +104,7 @@ section {
 }
 
 .hero-form h3 {
-    font-size: 24px;
+    font-size: 42px;
     margin: 0;
 }
 
@@ -232,7 +250,7 @@ section {
 
 .contact-info iframe {
     width: 400px;
-    height: 400 px;
+    height: 400px;
 }
 
 .contact-info div {
